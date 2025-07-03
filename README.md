@@ -12,3 +12,7 @@
   ✅Website development: React.js, Vue.js,Next.js, Nuxt, Nest.js, Django, Laravel, MERN, MySQL</br>
   ✅AI development: OpenAI, Chatgpt, Huggingface, PyTorch, Numpy, Scipy, SciKit-Learn, Sentence Transformers, TensorFlow, Jax,...</br>
   ✅Blockchain development: Smart contract, Decentralized Applications, NFT platform, Trading bot, Sniper bot... </br>
+  ✅Program language: C/C++, Java, Python, Javascript, Typescript, PHP, Golang, Solidity, Rust, web3.js</br>
+  ✅Website development: React.js, Vue.js,Next.js, Nuxt, Nest.js, Django, Laravel, MERN, MySQL</br>
+  ✅AI development: OpenAI, Chatgpt, Huggingface, PyTorch, Numpy, Scipy, SciKit-Learn, Sentence Transformers, TensorFlow, Jax,...</br>
+  ✅Blockchain development: Smart contract, Decentralized Applications, NFT platform, Trading bot, Sniper bot... </br>
